@@ -19,4 +19,4 @@ An interactive tool designed to help users practice their IELTS speaking skills 
 ## Installation:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ielts-speaking-practice.git
+   git clone https://github.com/BV-COSTA/Junior-AI-Integrator-Task---January-2025.git
